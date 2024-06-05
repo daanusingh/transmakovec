@@ -1,0 +1,1705 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Logio - Logistics & Transportation",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logio Form Booking",
+            "screenshot": "screenshots\/logio-form-booking.png",
+            "source": "templates\/logio-form-booking.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/logio-form-booking\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logio Newsletters Home 01",
+            "screenshot": "screenshots\/logio-newsletters-home-01.png",
+            "source": "templates\/logio-newsletters-home-01.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/logio-newsletters-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logio Form Contact",
+            "screenshot": "screenshots\/logio-form-contact.png",
+            "source": "templates\/logio-form-contact.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/logio-form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logio Tab Testimonials Box 01",
+            "screenshot": "screenshots\/logio-tab-testimonials-box-01.png",
+            "source": "templates\/logio-tab-testimonials-box-01.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/logio-tab-testimonials-box-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Logio Tab Testimonials Style 2 Box 01",
+            "screenshot": "screenshots\/logio-tab-testimonials-style-2-box-01.png",
+            "source": "templates\/logio-tab-testimonials-style-2-box-01.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/logio-tab-testimonials-style-2-box-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Style 01",
+            "screenshot": "screenshots\/services-style-01.jpg",
+            "source": "templates\/services-style-01.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/services-style-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Style 02",
+            "screenshot": "screenshots\/services-style-02.jpg",
+            "source": "templates\/services-style-02.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/services-style-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/shtheme.org\/template\/logio\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.1",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3421,
+            "dimensions": [
+                162,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "line-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/line-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 273,
+            "dimensions": [
+                4,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3811,
+            "dimensions": [
+                78,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3579,
+            "dimensions": [
+                78,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2148,
+            "dimensions": [
+                77,
+                57
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2350,
+            "dimensions": [
+                73,
+                58
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "05.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/05.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3133,
+            "dimensions": [
+                75,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "06.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/06.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2327,
+            "dimensions": [
+                78,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "white-logo.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/white-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3344,
+            "dimensions": [
+                162,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_testimonial_Home-QM72TH4.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_testimonial_Home-QM72TH4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/logio-tab-testimonials-box-01.json",
+                    "name": "Logio Tab Testimonials Box 01"
+                }
+            ],
+            "filesize": 47233,
+            "dimensions": [
+                340,
+                462
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QM72TH4"
+        },
+        {
+            "filename": "img_testimonial_About-WDL9YXT.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_testimonial_About-WDL9YXT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/logio-tab-testimonials-style-2-box-01.json",
+                    "name": "Logio Tab Testimonials Style 2 Box 01"
+                }
+            ],
+            "filesize": 12475,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WDL9YXT"
+        },
+        {
+            "filename": "01.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/01-800x349.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 441148,
+            "dimensions": [
+                1920,
+                837
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/es.123rf.com\/photo_18882526_aeroplano-en-la-puesta-del-sol-con-luz-de-fondo.html"
+        },
+        {
+            "filename": "03.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/03-800x478.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 127628,
+            "dimensions": [
+                1920,
+                1148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/truck-transportation-on-road-sunset-350092247"
+        },
+        {
+            "filename": "icon-01.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1929,
+            "dimensions": [
+                98,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-02.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1953,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-03.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1740,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-04.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/icon-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2653,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_about02_Home-N66ZRDF.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_about02_Home-N66ZRDF-800x766.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 218157,
+            "dimensions": [
+                940,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N66ZRDF"
+        },
+        {
+            "filename": "Air_Freight.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/Air_Freight.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89433,
+            "dimensions": [
+                370,
+                280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/BXBxDJR3y5A"
+        },
+        {
+            "filename": "img_bg_support_Home-UWA2MTY.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_bg_support_Home-UWA2MTY-800x270.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 219056,
+            "dimensions": [
+                1920,
+                648
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UWA2MTY"
+        },
+        {
+            "filename": "service-01.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/service-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 294505,
+            "dimensions": [
+                370,
+                523
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/aerial-view-container-ship-carrying-container-import-export-business_5419310.htm"
+        },
+        {
+            "filename": "service-02.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/service-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 154833,
+            "dimensions": [
+                370,
+                523
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/es.123rf.com\/photo_18882526_aeroplano-en-la-puesta-del-sol-con-luz-de-fondo.html"
+        },
+        {
+            "filename": "service-03.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/service-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 175837,
+            "dimensions": [
+                370,
+                523
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/es.123rf.com\/photo_96412470_stock-illustration-plane-trucks-are-flying-towards-the-destination-with-the-brightest-3d-rendering-and-illustration-.html"
+        },
+        {
+            "filename": "img_services_Home-CFAZ7DM.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_services_Home-CFAZ7DM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 212966,
+            "dimensions": [
+                740,
+                1046
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CFAZ7DM"
+        },
+        {
+            "filename": "img_request_Home-2P6DCJN.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_request_Home-2P6DCJN-800x736.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 146425,
+            "dimensions": [
+                802,
+                738
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2P6DCJN"
+        },
+        {
+            "filename": "bg-02.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/bg-02-800x584.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 308673,
+            "dimensions": [
+                960,
+                701
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/aerial-view-container-cargo-ship-import-export-business_2206643.htm"
+        },
+        {
+            "filename": "bg-03.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-03-800x584.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 236635,
+            "dimensions": [
+                960,
+                701
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/white-truck-semi-trailer-driving-on-697063396"
+        },
+        {
+            "filename": "Case_02.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/Case_02-800x766.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 222864,
+            "dimensions": [
+                940,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/ro\/photos\/nav%C4%83-container-ship-4088237\/"
+        },
+        {
+            "filename": "img_project_Home-GPV9KCY.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/06\/img_project_Home-GPV9KCY-800x766.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 372186,
+            "dimensions": [
+                940,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GPV9KCY"
+        },
+        {
+            "filename": "bg-04.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-04-800x310.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89289,
+            "dimensions": [
+                1920,
+                744
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "s-01.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3689,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-05-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-05-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 1866,
+            "dimensions": [
+                85,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-03.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 3733,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-02.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 2957,
+            "dimensions": [
+                92,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-05.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-05-800x151.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227092,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-pagetitle-1.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-pagetitle-1-800x271.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 679272,
+            "dimensions": [
+                1920,
+                650
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/container-ship-loading-unloading-deep-sea-1481437169"
+        },
+        {
+            "filename": "img_services_About-PK2WHPT.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_services_About-PK2WHPT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 112903,
+            "dimensions": [
+                740,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK2WHPT"
+        },
+        {
+            "filename": "img_services_About-FFRA3HS.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_services_About-FFRA3HS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 127855,
+            "dimensions": [
+                740,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFRA3HS"
+        },
+        {
+            "filename": "bg-11.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-11-800x308.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 169457,
+            "dimensions": [
+                1920,
+                740
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_team_About-SNMALSM.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team_About-SNMALSM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 65941,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SNMALSM"
+        },
+        {
+            "filename": "img_team_About-N8SMX2A.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team_About-N8SMX2A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 89515,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8SMX2A"
+        },
+        {
+            "filename": "img_team_About-PKVL9EU.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team_About-PKVL9EU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98274,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKVL9EU"
+        },
+        {
+            "filename": "img_team_About-QQM4EGG.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team_About-QQM4EGG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QQM4EGG"
+        },
+        {
+            "filename": "img_bg_video_About-UWA2MTY.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_bg_video_About-UWA2MTY-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 285767,
+            "dimensions": [
+                1920,
+                815
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UWA2MTY"
+        },
+        {
+            "filename": "bg-13.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/bg-13-800x391.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 40296,
+            "dimensions": [
+                1920,
+                939
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_Team-2ZH5HKB.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_Team-2ZH5HKB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70499,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2ZH5HKB"
+        },
+        {
+            "filename": "img_Team-MU22CKF.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_Team-MU22CKF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 62525,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MU22CKF"
+        },
+        {
+            "filename": "img_team-A9CDZQY.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team-A9CDZQY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 76154,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A9CDZQY"
+        },
+        {
+            "filename": "img_team-ZTR2QWP.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_team-ZTR2QWP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 57821,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZTR2QWP"
+        },
+        {
+            "filename": "img_faq_Pricing-LTJBPQC.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_faq_Pricing-LTJBPQC-800x832.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 309542,
+            "dimensions": [
+                998,
+                1038
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LTJBPQC"
+        },
+        {
+            "filename": "pricing.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/pricing-800x484.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 76161,
+            "dimensions": [
+                1920,
+                1162
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "p-01.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/p-01.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 16976,
+            "dimensions": [
+                270,
+                221
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-2.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2688,
+            "dimensions": [
+                83,
+                95
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "p-02.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/p-02.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 23310,
+            "dimensions": [
+                330,
+                272
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5076,
+            "dimensions": [
+                132,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "p-03.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/p-03.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 18991,
+            "dimensions": [
+                270,
+                221
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2550,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "working-01.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/working-01.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 14044,
+            "dimensions": [
+                178,
+                201
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "working-02.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/working-02.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 13892,
+            "dimensions": [
+                194,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "working-03.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/working-03.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                },
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 10588,
+            "dimensions": [
+                189,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-01-1.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 3689,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-04.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-04.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 3160,
+            "dimensions": [
+                80,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "s-06.png",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/s-06.png",
+            "templates": [
+                {
+                    "source": "templates\/services-style-01.json",
+                    "name": "Services Style 01"
+                }
+            ],
+            "filesize": 2817,
+            "dimensions": [
+                69,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_explore-Services-EMG3XDT.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_explore-Services-EMG3XDT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 314753,
+            "dimensions": [
+                740,
+                982
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EMG3XDT"
+        },
+        {
+            "filename": "about-03.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/about-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-style-02.json",
+                    "name": "Services Style 02"
+                }
+            ],
+            "filesize": 89854,
+            "dimensions": [
+                270,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/truck-on-highway-road-container-transportation-1055213912"
+        },
+        {
+            "filename": "air-01.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/air-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 191868,
+            "dimensions": [
+                770,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/BXBxDJR3y5A"
+        },
+        {
+            "filename": "air-02.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/air-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 82433,
+            "dimensions": [
+                370,
+                350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/loading-cargo-on-plane-airport-view-308983262"
+        },
+        {
+            "filename": "air-03.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/air-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 31783,
+            "dimensions": [
+                302,
+                295
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_ServicesDetail-6ZKXECG.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/img_ServicesDetail-6ZKXECG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 237422,
+            "dimensions": [
+                740,
+                928
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZKXECG"
+        },
+        {
+            "filename": "10-1.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/10-1-800x315.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 183495,
+            "dimensions": [
+                1920,
+                757
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/double-exposure-image-business-person-on-1494218333"
+        },
+        {
+            "filename": "09.jpg",
+            "thumbnail_url": "https:\/\/shtheme.org\/template\/logio\/wp-content\/uploads\/2021\/05\/09-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 26948,
+            "dimensions": [
+                1500,
+                812
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
